@@ -1,0 +1,12 @@
+# Fichiers volumineux
+*.safetensors
+*.rar
+*.zip
+*.pkl
+*.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dossiers temporaires
+__pycache__/
